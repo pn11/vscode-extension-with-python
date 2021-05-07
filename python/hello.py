@@ -1,2 +1,3 @@
 from __future__ import print_function
-print("Hello world from Python")
+import sys
+print(sys.argv[1])

@@ -53,7 +53,7 @@ print(os.getcwd())', options1, function (err, res) {
 			pythonPath: pythonpath,
 			pythonOptions: ['-u'], // get print results in real-time
 			scriptPath: ext_path,
-			args: ['value1', 'value2', 'value3']
+			args: ['Hello world from Python']
 		};
 
 		PythonShell.run('python/hello.py', options2, function (err, res) {

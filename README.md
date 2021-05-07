@@ -6,7 +6,7 @@ This is an example for running a Python script inside a VSCode extension using t
 
 Open command palette, then run `Hello World`.
 
-<!-- ![animation](images/animation.png) -->
+![demo animation](image/demo.gif)
 
 ## Requirements
 
