@@ -1,6 +1,6 @@
 # vscode-extension-with-python
 
-This is an example for running a Python script inside a VSCode extension using the Node.js package `python-shell`.
+This is an example for running a Python script inside a VSCode extension using the Node.js package [python-shell](https://www.npmjs.com/package/python-shell).
 
 ## Features
 
